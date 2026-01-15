@@ -1,0 +1,29 @@
+# --- MATLAB ---
+# Autosave files
+*.asv
+*.m~
+*.slx.autosave
+*.mdl.autosave
+
+# Compiled MEX files
+*.mex*
+
+# Project and Toolboxes
+resources/
+.matlab/
+_out/
+*.mlappinstall
+*.mltbx
+
+# Simulink Generated
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+cat_log.txt
+
+# Figures and Logs
+*.log
+*.fig
+
+# Workspace and Data (Optional - comment out if you want to keep .mat files)
+*.mat
